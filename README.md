@@ -1,2 +1,3 @@
-# Loading
+# Loading Animation
+
 Loading Animation
